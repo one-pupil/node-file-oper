@@ -1,8 +1,8 @@
-const writer = require('./writer');
+const write = require('./write');
 
 const readFloder = require('./readFloder');
 
 module.exports = {
-  writer,
+  write,
   readFloder
 }
