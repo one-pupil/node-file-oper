@@ -1,0 +1,24 @@
+{
+  "name": "file-oper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-pupil/node-file-oper.git"
+  },
+  "keywords": [
+    "node",
+    "file",
+    "oper"
+  ],
+  "author": "Mondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-pupil/node-file-oper/issues"
+  },
+  "homepage": "https://github.com/one-pupil/node-file-oper#readme"
+}
