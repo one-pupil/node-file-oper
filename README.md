@@ -1,6 +1,10 @@
 # library
 
-> node环境操作文件小工具
+node环境操作文件小工具
+
+[![npm version](https://badge.fury.io/js/node-file-oper.svg)](http://badge.fury.io/js/node-file-oper) ![npm download](https://img.shields.io/npm/dt/node-file-oper.svg)
+
+![](https://nodei.co/npm/node-file-oper.png?downloads=true&downloadRank=true&stars=true)
 
 # 引入
 
